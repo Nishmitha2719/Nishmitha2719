@@ -72,11 +72,11 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### My Portfolio Website
 
@@ -84,8 +84,8 @@ A futuristic, interactive personal portfolio showcasing my journey as an AI & Da
 
 **Stack:** React • JavaScript • CSS
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### CollabHub
 
@@ -93,10 +93,11 @@ CollabHub is a collaborative platform that helps students discover projects, con
 
 **Stack:** Next.js • TypeScript • Tailwind • Supabase
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### FLCut
 
@@ -104,8 +105,8 @@ A modern web-based link-shortening project with a clean interface and backend in
 
 **Stack:** Next.js • TypeScript
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### E-Commerce Website
 
@@ -113,33 +114,35 @@ A full-stack e-commerce web application designed to provide a seamless online sh
 
 **Stack:** React • JavaScript • CSS
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### CanopyCare
 
 An AI-powered forest monitoring and risk assessment platform that uses machine learning and geospatial data to identify and predict potential forest loss, supporting data-driven conservation and early intervention.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### Text-Image Generation with Gen AI
 
 Generative AI
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Ripple effect
 
 Graph ML-based open-source supply-chain risk prediction using Rust dependency networks, with vulnerability forecasting, blast-radius analysis, and explainable risk scoring.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### College Events Website
 
@@ -147,9 +150,10 @@ A responsive web application for discovering, managing, and participating in col
 
 **Stack:** Next.js • TypeScript
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 ---
 
 ## Currently Exploring
