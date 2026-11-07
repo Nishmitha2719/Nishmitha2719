@@ -72,21 +72,29 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤝 CollabHub
-A project collaboration platform designed to help students discover projects, find teammates and collaborate.
+### My Portofolio Website
+A futuristic, interactive personal portfolio showcasing my journey as an AI & Data Science student, developer, and researcher, featuring projects, research publications, technical skills, achievements, and experience through immersive 3D visuals and animations
+
+**Stack:** React • JavaScript • CSS
+
+</td>
+<td width="50%">
+  
+### CollabHub
+CollabHub is a collaborative platform that helps students discover projects, connect with like-minded developers, and build teams.
 
 **Stack:** Next.js • TypeScript • Tailwind • Supabase
 
 </td>
 <td width="50%">
 
-### ✂️ FLCut
+### FLCut
 A modern web-based link-shortening project with a clean interface and backend integration.
 
 **Stack:** Next.js • TypeScript 
@@ -97,16 +105,34 @@ A modern web-based link-shortening project with a clean interface and backend in
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Website
-A full-stack-style e-commerce interface focused on product browsing and a modern shopping experience.
+### E-Commerce Website
+A full-stack e-commerce web application designed to provide a seamless online shopping experience with product browsing, user authentication, shopping cart management, order processing, and administrative controls.
 
 **Stack:** React • JavaScript • CSS
 
 </td>
 <td width="50%">
 
-### 🎓 College Events Website
-A web platform for presenting and organizing college events in a clean, accessible interface.
+### CanopyCare
+An AI-powered forest monitoring and risk assessment platform that uses machine learning and geospatial data to identify and predict potential forest loss, supporting data-driven conservation and early intervention.
+
+</td>
+<td width="50%">
+
+### Text-Image Generation with Gen AI
+Generative AI 
+
+</td>
+<td width="50%">
+
+### Ripple effect
+Graph ML-based open-source supply-chain risk prediction using Rust dependency networks, with vulnerability forecasting, blast-radius analysis, and explainable risk scoring.
+
+</td>
+<td width="50%">
+
+### College Events Website
+A responsive web application for discovering, managing, and participating in college events, featuring event listings, calendar integration, search and filtering, student registrations, and an admin dashboard.
 
 **Stack:** Next.js • TypeScript
 
@@ -116,7 +142,7 @@ A web platform for presenting and organizing college events in a clean, accessib
 
 ---
 
-## 🔬 Currently Exploring
+## Currently Exploring
 
 ```text
 🤖 Artificial Intelligence
