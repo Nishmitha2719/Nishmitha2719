@@ -119,7 +119,7 @@ An AI-powered forest monitoring and risk assessment platform that uses machine l
 </td>
 <td width="50%" valign="top">
 
-### Text-Image Generation with Gen AI - DreamCanvas
+### Gen AI - DreamCanvas
 
 DreamCanvas is a text-to-image website built on Stable Diffusion. You type a description, pick a style, and the model turns random noise into an image that matches your words.
 
